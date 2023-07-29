@@ -34,14 +34,28 @@
       - 단지 데이터를 전달만 할 뿐 주고받는 데이터가 무엇인지, 어떤 에러가 있는지 등은 신경쓰지 않고 전기적인 신호로 변환한다.
       - 대표 장치 : 
 
-## TCP
-
-## UDP
-
 ## HTTP
+  Method
+    - GET
+    - POST
+    - 그 외
 
 ## HTTPS
 
 ## DNS
+  DNS 흐름
 
-##
+## Cookie Session
+
+## TCP
+  TCP 3 way handshake
+  TCP 4 way handshake
+  제어
+
+## UDP
+
+## IP
+  Socket
+  WebSocket
+
+## REST and RESTful
