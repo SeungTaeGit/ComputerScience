@@ -1,12 +1,18 @@
 # ComputerScience
 
 
-## Network
+### Network
 
-## Operating System
+### Operating System
 
-## Java
+### Java // 나중에 언어로 분류
 
-## Database
+### Database
 
-## 
+### Data Structure / Algorithm
+
+### Design Pattern
+
+### Computer Architecture
+
+### Software Engineering
