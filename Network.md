@@ -1,5 +1,30 @@
 # Network
 
+### OSI 7 layers
+  ##### OSI 7 계층을 분리시켜놓은 이유
+  ##### OSI 7 Layer
+### TCP/IP 4 Layer , TCP/IP 5 Layer
+  ##### TCP/IP 4 Layer
+  ##### TCP/IP 5 Layer
+### Application Layer
+  ##### HTTP
+  ##### HTTPS
+  ##### DNS
+### Presentation Layer
+  ##### 대칭키 & 공개키
+  ##### SSL/TLS
+### Session Layer
+  ##### Cookie Session
+### Transport Layer
+  ##### TCP
+  ##### UDP
+### Network Layer
+  ##### IP
+### 로드 밸런싱(Load Balancing)
+### REST and RESTful
+### CORS
+### 웹 통신 전체 흐름
+  
 
 ## OSI 7 layers
   #### OSI 7 계층을 분리시켜놓은 이유 : 
