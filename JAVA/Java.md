@@ -17,15 +17,17 @@
   - JVM(Java Virtual Machine) 자바 가상 머신을 줄여 부르는 용어이다.
   - OS와 JAVA Application 사이에서 중재자 역할을 한다.
   - 자바 컴파일러에 의해 바이트 코드로 변환된 자바 소스 파일을 클래스 로더를 통해 읽어 자바 API와 함께 실행한다.
+<br>
 
 > **- 왜 사용할까?** <br><br>
->  모든 프로그래밍 언어는 application(source) -> compilered source -> OS -> Hardware 의 구조를 가진다.<br>
->  위 구조의 경우 사용하는 OS에 따라 코드해석을 달리 해야한다.
->   -> java의 경우 JVM을 사용, 운영체제의 역할을 대신 수행하여 자바 바이트코드(.class)파일을 실제 사용중인 OS에 맞는 특화된 코드로 변환하여 실행한다.
+>   모든 프로그래밍 언어는 application(source) -> compilered source -> OS -> Hardware 의 구조를 가진다.<br>
+>   위 구조의 경우 사용하는 OS에 따라 코드해석을 달리 해야한다.<br>
+>    -> java의 경우 JVM을 사용, 자바 바이트코드(.class)파일을 실제 사용중인 OS에 맞는 특화된 코드로 변환하여 실행한다.
 <br>
 
 ### 2. 컴파일 하는 방법
 ---
+  - 
 <br>
 
 ### 3. 실행하는 방법
