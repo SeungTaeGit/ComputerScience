@@ -24,7 +24,8 @@
 ### REST and RESTful
 ### CORS
 ### 웹 통신 전체 흐름
-  
+<br>
+
 
 ## OSI 7 layers
   #### OSI 7 계층을 분리시켜놓은 이유 : 
