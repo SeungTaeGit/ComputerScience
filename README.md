@@ -7,6 +7,6 @@
 
 ### Database
 
-### Data Structure / Algorithm
+### Data Structure
 
 ### Computer Architecture
