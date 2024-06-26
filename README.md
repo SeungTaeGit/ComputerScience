@@ -8,5 +8,3 @@
 ### Database
 
 ### Data Structure
-
-### Computer Architecture
