@@ -1,5 +1,6 @@
 
 # 운영체제
+## 프로그램
 ## 프로세스(Process)
 ### 프로세스 제어 블록(Process Control Block, PCB)
 ## 스레드(Thread)
