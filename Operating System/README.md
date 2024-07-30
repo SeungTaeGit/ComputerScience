@@ -1,5 +1,5 @@
 
-# 운영체제
+# 운영체제(Operation System)
 ## 프로세스(Process)
 ### 프로세스 제어 블록(Process Control Block, PCB)
 ## 스레드(Thread)
