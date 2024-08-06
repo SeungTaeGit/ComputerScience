@@ -35,7 +35,7 @@
 ### Process State
 ---
 - 운영체제의 원활한 프로세스 관리를 위해, **프로세스의 상태**는 여러개로 나뉘어 관리된다.
-- 프로세스는 생성(New), 준비(Ready), 실행(Running), 정지(), 종료(Terminated)의 5개의 상태를 가진다.
+- 프로세스는 **생성(New), 준비(Ready), 실행(Running), 정지(Blocked), 종료(Terminated)의 5개**의 상태를 가진다.
 
 #### 생성(New)
 <br>
@@ -46,7 +46,7 @@
 #### 실행(Running)
 <br>
 
-#### 정지()
+#### 정지(Blocked)
 <br>
 
 #### 종료(Terminated)
