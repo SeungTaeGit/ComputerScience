@@ -53,8 +53,10 @@
 <br>
 
 #### 정지(Blocked)
+-
 <br>
 
 #### 종료(Terminated)
+-
 <br>
 
